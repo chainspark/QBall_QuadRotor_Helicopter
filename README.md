@@ -1,1 +1,1 @@
-# QBall_QuadRotor_Helicopter
+MATLAB simulation for Control of Quadrotor Helicopter using Linear Control Theories for hovering condition.
