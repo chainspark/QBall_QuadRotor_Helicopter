@@ -6,9 +6,9 @@ MATLAB simulation for Control of Quadrotor Helicopter using Linear Control Theor
 ### Circular Trajectory
 <div align = "center">
 ![](https://github.com/chainspark/QBall_QuadRotor_Helicopter/blob/main/Circle.gif)
-<\div>
+</div>
 
 <div align = "center">
 ### Square Trajectory
 ![](https://github.com/chainspark/QBall_QuadRotor_Helicopter/blob/main/Square.gif)
-<\div>
+</div>
